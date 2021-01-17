@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate": false,
+	"name": "auto-heal",
+	"author": "teralove",
+	"description": "Auto lockon and instantly heal/cleanse party members.",
+    "version": "9/16/2019",
+	"options": {
+		"niceName": "Auto Heal",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "settings_migrator.js"    
+	}
+}
